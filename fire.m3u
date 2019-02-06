@@ -1,0 +1,67 @@
+#EXTM3U8
+#EXTINF:0,Shant1
+http://79.135.79.162:4022/udp/239.195.241.25:1234?zona-iptv.ru
+#EXTINF:0,Shant
+http://92.39.227.235:81/udp/235.10.10.169:1234
+#EXTINF:0,TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Filmzon ATV
+http://92.43.140.249/s48/04.m3u8
+#EXTINF:0,Cineman
+http://92.43.140.249/s66/04.m3u8
+#EXTINF:0,АРМЕНИЯ ТВ
+http://91.210.24.70:88/tv_Armenia/video.m3u8
+#EXTINF:0,Yerkir Media
+http://92.43.140.249/s7/index.m3u8
+#EXTINF:0,US Armenia Tv
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+#EXTINF:0,Tuntunik
+http://92.43.140.249/s46/index.m3u8
+#EXTINF:0,Tava ATV
+http://92.43.140.249/s53/index.m3u8
+#EXTINF:0,Song Tv Armenia
+https://songtvam.ru:4443/high/playlist.m3u8
+#EXTINF:0,Shoxakat
+http://92.43.140.249/s13/index.m3u8
+#EXTINF:0,U!Premium
+http://92.43.140.249/s83/index.m3u8
+#EXTINF:0,Kinoman ATV
+http://92.43.140.249/s94/index.m3u8
+#EXTINF:0,Kentron Tv
+http://92.43.140.249/s5/index.m3u8
+#EXTINF:0,Jan ATV
+http://92.43.140.249/s42/index.m3u8
+#EXTINF:0,Hay kino
+http://92.43.140.249/s22/index.m3u8
+#EXTINF:0,Hay ATV
+http://92.43.140.249/s73/index.m3u8
+#EXTINF:0,H3
+http://92.43.140.249/s12/index.m3u8
+#EXTINF:0,H2
+http://92.43.140.249/s2/index.m3u8
+#EXTINF:0,H1
+http://92.43.140.249/s1/index.m3u8
+#EXTINF:0,ArTV
+http://92.43.140.249/s9/index.m3u8
+#EXTINF:0,Azatutyun Tv
+http://92.43.140.249/s3/index.m3u8
+#EXTINF:0,ATV
+http://92.43.140.249/s8/index.m3u8
+#EXTINF:0,ARTN Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0,ArmNews ATV
+http://92.43.140.249/s11/index.m3u8
+#EXTINF:0,Armenia Tv
+http://92.43.140.249/s4/index.m3u8
+#EXTINF:0,Armenia Comedy
+http://92.43.140.249/s32/index.m3u8
+#EXTINF:0,Ararat HD
+http://92.43.140.249/s6/index.m3u8
+#EXTINF:0,21 Tv
+http://92.43.140.249/s10/index.m3u8
+#EXTINF:0,Bazmoc
+http://92.43.140.249/s74/04.m3u8
+#EXTINF:0,AMGA
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
+#EXTINF:0,ARTN us Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
